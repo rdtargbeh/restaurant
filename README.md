@@ -31,9 +31,9 @@ Pause anytime: Going on vacation? Just pause your subscription, and we refund un
 
 **Your daily dose of health in 3 simple steps**
 
-Tell us what you like (and what not): Never again waste time thinking about what to eat! Omnifood AI will create a 100% personalized weekly meal plan just for you. It makes sure you get all the nutrients and vitamins you need, no matter what diet you follow!
+Tell us what you like (and what not): Never again waste time thinking about what to eat! Eat & Look Good AI will create a 100% personalized weekly meal plan just for you. It makes sure you get all the nutrients and vitamins you need, no matter what diet you follow!
 
-Approve your weekly meal plan: Once per week, approve the meal plan generated for you by Omnifood AI. You can change ingredients, swap entire meals, or even add your own recipes.
+Approve your weekly meal plan: Once per week, approve the meal plan generated for you by Eat & Look Good AI. You can change ingredients, swap entire meals, or even add your own recipes.
 
 Receive meals at convenient time: Best chefs in town will cook your selected meal every day, and we will deliver it to your door whenever works best for you. You can change delivery schedule and address daily!
 
@@ -102,8 +102,8 @@ Complete: $649 per month
 
 Inexpensive, healthy and great-tasting meals, without even having to order manually! It feels truly magical. (Dave Bryson)
 The AI algorithm is crazy good, it chooses the right meals for me every time. It's amazing not to worry about food anymore! (Ben Hadley)
-Omnifood is a life saver! I just started a company, so there's no time for cooking. I couldn't live without my daily meals now! (Steve Miller)
-I got Omnifood for the whole family, and it frees up so much time! Plus, everything is organic and vegan and without plastic. (Hannah Smith)
+Eat & Look Good is a life saver! I just started a company, so there's no time for cooking. I couldn't live without my daily meals now! (Steve Miller)
+I got Eat & Look Good for the whole family, and it frees up so much time! Plus, everything is organic and vegan and without plastic. (Hannah Smith)
 
 ### Section with logos of featured publications [see images]
 
@@ -111,7 +111,7 @@ I got Omnifood for the whole family, and it frees up so much time! Plus, everyth
 
 Address: 623 Harrison St., 2nd Floor, San Francisco, CA 94107
 Phone: 415-201-6370
-Email: hello@omnifood.com
+Email: hello@eatgood.com
 
 Social profiles: instagram, facebook, twitter [links to them not available yet]
 
@@ -122,7 +122,7 @@ Sign in
 iOS app
 Android app
 
-About Omnifood
+About Eat & Look Good
 For Business
 Cooking partners
 Careers
